@@ -1,12 +1,12 @@
-# This repo is no longer used. Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
+# This repo is for our OSSE project
 
 | Language | Platform | Author |
 | -------- | --------|--------|
-| HTML |  Azure Web App, Virtual Machine| |
+
 
 # Sample HTML website 
 
-Sample HTML/CSS web app that you can deploy to Azure. 
+Sample HTML/CSS web app 
 
 ## License
 
